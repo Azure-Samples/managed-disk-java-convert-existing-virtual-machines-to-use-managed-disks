@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Compute
-- platforms: java
+description: "Getting Started with Compute - Convert Virtual Machine To Managed Disks - in Java"
+urlFragment: managed-disk-java-convert-existing-virtual-machines-to-use-managed-disks
 ---
 
 # Getting Started with Compute - Convert Virtual Machine To Managed Disks - in Java #
