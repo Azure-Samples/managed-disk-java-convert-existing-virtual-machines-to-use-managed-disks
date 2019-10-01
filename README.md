@@ -8,7 +8,7 @@ description: "Getting Started with Compute - Convert Virtual Machine To Managed 
 urlFragment: managed-disk-java-convert-existing-virtual-machines-to-use-managed-disks
 ---
 
-# Getting Started with Compute - Convert Virtual Machine To Managed Disks - in Java #
+# Convert Virtual Machine To Managed Disks (Java)
 
 
   Azure Compute sample for managing virtual machines -
@@ -34,7 +34,5 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 [http://azure.com/java](http://azure.com/java)
 
 If you don't have a Microsoft Azure subscription you can get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
-
----
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
